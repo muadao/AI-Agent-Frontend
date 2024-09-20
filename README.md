@@ -30,5 +30,6 @@ However, there are some requirements if animations are meant to be used:
     Clip names are used only in `3d.ts`, and are triggered by events. 
 2. Vertex animations are not supported.
 
+If your GLTF file causes issues, it's very likely that comment out the codes in `3d.ts` that are related to animations will fix the issue.
 ### Replace icons and Images
 Some icons are inlined svg, and some are images. Images can be replaced in the `public/assets` directory.
