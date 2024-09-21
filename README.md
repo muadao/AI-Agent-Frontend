@@ -22,7 +22,7 @@ npm run build
 
 ## Customize
 ### Use any GLTF file
-This project uses the `GLTF` format for the avatar. You can use any GLTF file by replacing the `avatar.glb` file in the `public/models` directory.
+This project uses the `glTF` format for the avatar. You can use any glTF file by replacing the `avatar.glb` file in the `public/models` directory.
 
 However, there are some requirements if animations are meant to be used:
 1. Make sure the animations' names match the code.
