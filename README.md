@@ -2,6 +2,16 @@
 
 This project is a minimal example of an AI Agent that features 3D avatar interaction, responsive UI, and voice inputs / outputs. The frontend service is designed to be used with the AI Agent Backend Service.
 
+
+### _[Backend Service]("https://github.com/muadao/AI-Agent-Backend-Service") is required to run this project. And the project is appended as submodule._
+
+## Requirements
+* Any device that can run `Node.js` and `npm`.
+* A modern web browser that supports `WebGL`
+* A microphone for voice input (Optional)
+* API Key for [OpenAI API]("https://openai.com/index/openai-api/") (Paid)
+* API Key and User ID for [Play.ht API]("https://play.ht/") (Paid)
+
 ## Project Setup
 
 ```sh
